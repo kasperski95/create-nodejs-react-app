@@ -11,8 +11,7 @@ React and Node.js starter.
 * webpack - bundles all js or jsx files into one, and put it to the server folder
 
 # Start
-1. *git init*
-1. *git pull https://github.com/kasperski95/create-nodejs-react-app.git*
+1. *git clone https://github.com/kasperski95/create-nodejs-react-app.git*
 1. Open **Visual Studio Code**
 1. *Terminal* -> *New Terminal*
 1. Run **npm i** from VS Code's terminal
